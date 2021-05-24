@@ -1,0 +1,5 @@
+export const SET_FIRSTNAME = "SET_USERNAME"
+export const SET_LASTNAME = "SET_LASTNAME"
+export const SET_USERS = "SET_USERS"
+export const SET_POST = "SET_POST"
+export const LOGIN = "LOGIN"
